@@ -22,9 +22,9 @@ Health Life é um aplicativo Android projetado para ajudar você a melhorar e mo
 - Cálculo do Índice de Massa Corporal (IMC)
 
 
-## Instalação
+## Execução
 
-Forneça instruções sobre como instalar e executar seu aplicativo. 
+Forneça instruções sobre como executar seu aplicativo. 
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
 2. Abra o projeto no Android Studio.
@@ -37,7 +37,7 @@ Você pode baixar a versão mais recente do aplicativo [aqui](https://github.com
 
 Ou, se preferir, use o QR code abaixo:
 
-[![QR Code](link-para-o-seu-qr-code)](https://github.com/ArthurFerrazz/Healthy-life/blob/main/healthy-life.apk)
+<img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/83354fbd-14dd-45a9-8d0f-4681370e4bc8" width="150" height="150" alt="QR Code">
 
 
 ## Como Contribuir
@@ -55,26 +55,14 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 - Kotlin 1.8
 - Android SDK 34
-- Outras bibliotecas ou ferramentas que você utilizou.
 
 
 ## Autor
 
-- Seu Nome
+- [Arthur Ferraz](https://github.com/ArthurFerrazz)
+- [Ianco Ferraz](https://github.com/iancoF17)
 
 
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
-
-## Descrição do Código
-
-### MainHome
-
-A classe `MainHome` representa a tela inicial do aplicativo. Ela contém botões para navegar às seções de água, proteína e IMC.
-
-### MainIMC, MainProtein, MainWater
-
-Essas classes representam as telas específicas para cálculo de IMC, controle de proteína e rastreamento de água, respectivamente.
-
