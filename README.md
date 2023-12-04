@@ -1,4 +1,4 @@
-# HEALTHY LIFE
+# HEALTH LIFE
 
 [![Versão do Kotlin](https://img.shields.io/badge/Kotlin-1.8-blue.svg)](https://kotlinlang.org/)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Android-brightgreen.svg)](https://www.android.com/)
