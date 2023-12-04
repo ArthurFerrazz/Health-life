@@ -33,11 +33,11 @@ Forneça instruções sobre como executar seu aplicativo.
 
 ## Download
 
-Você pode baixar a versão mais recente do aplicativo [aqui](https://github.com/ArthurFerrazz/Healthy-life/blob/main/healthy-life.apk).
+Você pode baixar a versão mais recente do aplicativo [aqui](health-life.apk).
 
 Ou, se preferir, use o QR code abaixo:
 
-<img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/83354fbd-14dd-45a9-8d0f-4681370e4bc8" width="150" height="150" alt="QR Code">
+<img src="https://github.com/ArthurFerrazz/Health-life/assets/111258580/d1b6e9d5-c51c-423e-8058-22dcac716bbd" width="150" height="150" alt="QR Code">
 
 
 ## Como Contribuir
