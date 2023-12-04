@@ -9,7 +9,7 @@ Health Life é um aplicativo Android projetado para ajudar você a melhorar e mo
 
 ## Capturas de Tela
 
-<img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/b673f41d-74ff-4a30-8a47-32d4d33abe27" width="150" alt="home">
+<img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/249bc0a9-553d-4e46-85b1-cec98e677be3" width="150" alt="home">
 <img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/ab3ad156-c806-4350-a903-39187ec36c73" width="150" alt="agua">
 <img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/52219954-fb81-4710-a28f-b2abdc0bb00e" width="150" alt="proteina">
 <img src="https://github.com/ArthurFerrazz/Healthy-life/assets/111258580/7f1aadc0-0716-4485-873b-ca900fb3527d" width="150" alt="imc">
