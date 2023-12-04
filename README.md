@@ -37,7 +37,7 @@ Você pode baixar a versão mais recente do aplicativo [aqui](health-life.apk).
 
 Ou, se preferir, use o QR code abaixo:
 
-<img src="https://github.com/ArthurFerrazz/Health-life/blob/main/health-life.apk" width="150" height="150" alt="QR Code">
+<img src="https://github.com/ArthurFerrazz/Health-life/assets/111258580/95a3a132-6e14-4f5d-acf1-c0bbdb3e57ec" width="150" height="150" alt="QR Code">
 
 
 ## Como Contribuir
