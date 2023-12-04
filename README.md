@@ -26,7 +26,7 @@ Health Life é um aplicativo Android projetado para ajudar você a melhorar e mo
 
 Forneça instruções sobre como executar seu aplicativo. 
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/ArthurFerrazz/Healthy-life`
 2. Abra o projeto no Android Studio.
 3. Execute o aplicativo no emulador ou dispositivo físico.
 
